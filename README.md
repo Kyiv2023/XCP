@@ -17,7 +17,10 @@ A desktop (electron) application that demonstrates the last recorded session fro
 
 ## [LabelAutomator](https://github.com/Kyiv2023/XCP/tree/main/LabelAutomator)
 
+Windows/Mac/Linux application that allows to take a screenshot, label it - with ML assisted segmentation: rect region/text region, multiple labels, creation of the new labels. It allows half automatic labeling and execution of LLM produced desktop robotization script
 
 
 
 ## [Tools](https://github.com/Kyiv2023/XCP/tree/main/Tools)
+
+a toolset for processing desktop sessions data/training desktop screenshot summarization/annotation/explanation/robotization LLM
