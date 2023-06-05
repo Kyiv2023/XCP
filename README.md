@@ -6,6 +6,9 @@
 
 ## [HumanLog](https://github.com/Kyiv2023/XCP/tree/main/HumanLog)
 
+## [HumanLogDemo](https://github.com/Kyiv2023/XCP/tree/main/HumanLogDemo)
+
+
 
 ## [LabelAutomator](https://github.com/Kyiv2023/XCP/tree/main/LabelAutomator)
 
